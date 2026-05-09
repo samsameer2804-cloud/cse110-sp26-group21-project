@@ -6,7 +6,7 @@ Right now I’m working on getting general attributes from typing games that are
 
 - There is lots of data from different games and apps that make it very easy to understand what’s popular. 
 - In my elementary school, we (forced) played a typing game that taught us how to type without looking at the keys and had images to show where our hands were supposed to stay, so with that knowledge I know what works well for children. 
-- 
+  
 ## Blockers/Questions
 
 - Typing games can only go so far, it’s easy to get pushed down by already popular names
