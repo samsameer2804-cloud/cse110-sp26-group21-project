@@ -46,6 +46,7 @@ I’m reviewing the MVP ideas and looking through the typing/coding game researc
 The MVP direction is clearer now: an easy, addictive typing game that teaches syntax and basic coding concepts. I think tracking WPM and marking incorrect letters instantly are strong features to include.
 
 ### Blockers/Questions:
+
 I’m still thinking about how to make the mobile version feel smooth, since typing code or block-style coding on a phone may be difficult. I also want to better understand what design style we want before building too much.
 ---
 ## Andy
