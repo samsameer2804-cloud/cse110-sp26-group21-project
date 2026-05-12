@@ -11,8 +11,8 @@
 (message me if you want edit access cause it's limited)
 
 ### Blockers + challenges
-
 not good at design so designing a site is proving to be very challenging
+
 ---
 ## Emily
 
