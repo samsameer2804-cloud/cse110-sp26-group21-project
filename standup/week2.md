@@ -13,7 +13,7 @@
 ### Blockers + challenges
 
 not good at design so designing a site is proving to be very challenging
-
+---
 ## Emily
 
 ### What I’m working on
@@ -36,7 +36,7 @@ Thinking about mobile, having a “block” type coding wouldn’t be optimal du
 - The word bank would be basic code functions and product real functions
 - The feedback would be instant, incorrectly typed letters would be bolded/marked
 - Tracking words per minute (WPM)
-
+---
 ## Haolong
 
 ### What I’m working on:
@@ -47,7 +47,7 @@ The MVP direction is clearer now: an easy, addictive typing game that teaches sy
 
 ### Blockers/Questions:
 I’m still thinking about how to make the mobile version feel smooth, since typing code or block-style coding on a phone may be difficult. I also want to better understand what design style we want before building too much.
-
+---
 ## Andy
 
 ### Working on:
